@@ -1,8 +1,8 @@
-# cURL SOAP Client Library
+# PHP cURL SOAP Client Library
 
 With this library, you can make requests to SOAP server without using native PHP SOAP Client.
 
-It uses cURL Library.
+It uses PHP and cURL Library.
 
 # Usage
 Create request file from SOAP Service WSDL (Can Use [SoapUI](http://www.soapui.org/)) and save xml code to "requests" folder with method name: GetGeoIP(.xml).
