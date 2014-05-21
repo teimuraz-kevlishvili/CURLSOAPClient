@@ -1,0 +1,17 @@
+{
+    "name": "teimuraz.kevlishvili/phpcurlsoapclient",
+    "description": "Description of project PHPcURLSOAPClient.",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Teimuraz Kevlishvili",
+            "email": "teimuraz@kevlishvili.ge"
+        }
+    ],
+    "require": {
+        "ext-curl": "*",
+        "ext-SimpleXML": "*",
+        "ext-json": "*",
+        "php": "5.*"
+    }
+}
